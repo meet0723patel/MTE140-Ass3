@@ -1,1 +1,3 @@
-# MTE140-Ass3
+# MTE140
+
+Code for assignment 3
